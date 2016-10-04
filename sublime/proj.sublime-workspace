@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"pa",
+				"padded_points"
+			],
+			[
+				"rand",
+				"random_point_2D"
+			],
+			[
+				"ran",
+				"random_point_2D"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 446.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/DEVELOP/Files"
+	],
+	"file_history":
+	[
+		"/G/DEVELOP/Files/Files.cabal",
+		"/G/DEVELOP/Files/stack.yaml",
+		"/G/MANUSCRIPT/micelle/main/Main.tex",
+		"/G/MANUSCRIPT/micelle/autoscript.lua",
+		"/G/MANUSCRIPT/micelle/sections/methods/main.tex",
+		"/G/DEVELOP/Files/README.md",
+		"/G/DEVELOP/Files/src/Main.hs",
+		"/G/MANUSCRIPT/micelle/bibfiles/tbpub.bib",
+		"/G/MANUSCRIPT/micelle/sections/method/main.tex",
+		"/G/DEVELOP/AppliedStochasticProcesses/h6/requirements.txt",
+		"/G/DEVELOP/AppliedStochasticProcesses/.gitignore",
+		"/G/MANUSCRIPT/micelle/main/.gitignore",
+		"/G/Meeting/group_meeting/literature/2016-10-05/index.html",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/method.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/numbers.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/near_protein.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a1/overview.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/title.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a1/micelle_analyses.md",
+		"/G/Meeting/group_meeting/literature/2016-10-05/sections/a2/overview.md",
+		"/G/DEVELOP/AlgorithmBox/src/easy/haskell/plus.hs",
+		"/G/DEVELOP/LearningData/src/hw1/h1.jl",
+		"/G/DEVELOP/AlgorithmBox/src/easy/python/plus.py",
+		"/G/DEVELOP/AlgorithmBox/src/easy/haskell/in.txt",
+		"/G/DEVELOP/LearningData/src/hw1/h1.py",
+		"/C/Users/Steven/Downloads/Hi/src/hello.cu",
+		"/D/install/Nim/0.15.0/config/nim.cfg",
+		"/G/DEVELOP/HelloWorldWindows/README.md",
+		"/G/DEVELOP/HelloWorldWindows/src/Nim/hello.nim",
+		"/G/DEVELOP/HelloWorldWindows/src/Nim/.gitignore"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NAMD",
+			"PHIL2009",
+			"+ ",
+			"\t",
+			"args",
+			"ps",
+			"p1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proj.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
