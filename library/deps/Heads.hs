@@ -1,7 +1,4 @@
-module Files.Heads where
-
-usage :: IO ()
-usage = putStrLn "Usage: Files.exe <output> <number of lines> <input-1> <input-2> ..."
+module Heads (heads) where
 
 heads :: Int -> [String] -> IO [String]
 heads n file_names = aux file_names []

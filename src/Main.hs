@@ -1,5 +1,5 @@
 module Main where
-import Files.Heads
+import Files
 import System.Environment
 main :: IO ()
 main = do
@@ -7,6 +7,7 @@ main = do
     let n = read numLines 
     allLines <- heads n files
     writeFile output (unlines allLines)
+    print (hello "Steven")
     putStrLn "hello world"
 
 
