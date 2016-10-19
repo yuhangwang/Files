@@ -1,8 +1,8 @@
 name:                Files
-version:             0.1.0.0
+version:             0.1.1.0
 synopsis:            File content extraction/rearrangement
 description:         Please see README.md
-homepage:            https://github.com/githubuser/Files#readme
+homepage:            https://github.com/yuhangwang/Files#readme
 license:             MIT
 license-file:        LICENSE
 author:              Yuhang(Steven) Wang
@@ -20,7 +20,7 @@ executable Files
                      , Files 
 
 library
-    exposed-modules: Files
+    exposed-modules: System.Files
     other-modules: Heads, Hello
     hs-source-dirs: library, library/deps
     build-depends: base >= 4.7 && < 5

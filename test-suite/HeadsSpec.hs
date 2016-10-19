@@ -1,6 +1,6 @@
 module HeadsSpec (spec) where
 
-import Files (heads)
+import System.Files (heads)
 import Test.Hspec
 import Test.Hspec.QuickCheck
 

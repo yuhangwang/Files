@@ -23,6 +23,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/G/DEVELOP/Files/library/deps/Heads.hs",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -65,7 +73,9 @@
 		"/G/DEVELOP/Files/data",
 		"/G/DEVELOP/Files/data/in",
 		"/G/DEVELOP/Files/library",
-		"/G/DEVELOP/Files/library/Files"
+		"/G/DEVELOP/Files/library/deps",
+		"/G/DEVELOP/Files/library/System",
+		"/G/DEVELOP/Files/src"
 	],
 	"file_history":
 	[
@@ -150,8 +160,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/G/DEVELOP/Files/library/deps/Heads.hs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Haskell-SublimeHaskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -1,5 +1,5 @@
 module Main where
-import Files
+import System.Files
 import System.Environment
 main :: IO ()
 main = do
